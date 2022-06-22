@@ -6,7 +6,7 @@ Denoising: U-Net
 
 This was one of my first step in Deep Learning. Note codes are not organized.
 
-### [For more detail, please check] https://github.com/jh27kim/Classification-prior-to-Restoration/blob/master/Weather%20Cassification%20and%20Image%20Restoration%20Algorithm%20Attentive%20to%20Weather%20Conditions%20in%20Autonomous%20Vehicles.pdf
+### [For more detail, please check] (https://github.com/jh27kim/Classification-prior-to-Restoration/blob/master/Weather%20Cassification%20and%20Image%20Restoration%20Algorithm%20Attentive%20to%20Weather%20Conditions%20in%20Autonomous%20Vehicles.pdf)
 
 Our demo is on youtube.
 
